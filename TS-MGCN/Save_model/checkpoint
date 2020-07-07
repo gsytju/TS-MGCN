@@ -1,0 +1,2 @@
+model_checkpoint_path: "GCN+a+g_3_Adam_256_0.003.ckpt"
+all_model_checkpoint_paths: "GCN+a+g_3_Adam_256_0.003.ckpt"
